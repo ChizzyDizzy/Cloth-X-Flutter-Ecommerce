@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CwT</string>
+    <string name="facebook_app_id">322860757141019</string>
+    <string name="fb_login_protocol_scheme">fb322860757141019</string>
+    <string name="facebook_client_token">61b27c7f7e66c7a0a26ce5a4d4dad831</string>
+
+</resources>
